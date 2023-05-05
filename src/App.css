@@ -11,6 +11,8 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
+  position:relative;
+  height:1600px;
 }
 .switch{
   position: relative;
@@ -59,4 +61,5 @@ body{
 #dark{
   background-color: #121212;
   color: #fff;
+  
 }
